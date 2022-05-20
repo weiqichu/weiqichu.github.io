@@ -35,7 +35,7 @@ Education
 Contact
 ===
 <ul>
-  <li> Email &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; chu@math.ucla.edu </li>
+  <li> Email &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; chu@math.ucla.edu </li>
   <li> Mailing address  &nbsp; UCLA Mathematics Department, Box 951555, Los Angeles, CA 90095-1555 </li>
 </ul>
 
