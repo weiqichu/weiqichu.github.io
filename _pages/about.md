@@ -9,11 +9,11 @@ redirect_from:
 ---
 I am a PIC (Program in Computing) Assistant Adjunct Professor in mathematics at University of California, Los Angeles, working with Prof. [Mason Porter](https://www.math.ucla.edu/~mason/) and Prof. [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). My research interests include network science, model reduction methodology, and multiscale modeling. My recent and ongoing projects include:
 <ul> 
-  <li> developing opinion dynamics models on temporal networks, induced by interevent time distributions;
-  <li> using inverse problem techniques to infer parameters in continuous-valued opinion models from discrete decision observations;
-  <li> constructing reduced-order models for problems in quantum mechanics and molecular dynamics;
-  <li> modeling electro-dewetting phenomena in microfluids using thin film equations coupled with electric field.
-  </ul>
+  <li> developing opinion dynamics models on temporal networks, induced by interevent time distributions; </li>
+  <li> using inverse problem techniques to infer parameters in continuous-valued opinion models from discrete decision observations; </li>
+  <li> constructing reduced-order models for problems in quantum mechanics and molecular dynamics; </li>
+  <li> modeling electro-dewetting phenomena in microfluids using thin film equations coupled with electric field. </li>
+</ul>
   
 I received my Ph.D. in Mathematics at Penn State University under the supervision of Prof. [Xiantao Li](http://www.personal.psu.edu/xxl12/). Prior to that, I was an undergraduate student at Peking University, China. 
 
@@ -21,23 +21,24 @@ I received my Ph.D. in Mathematics at Penn State University under the supervisio
 Academic Positions
 ====
 <ul>
-  <li> 2019 - current   PIC Assistant Adjunct Professor, Mathematics, UCLA
-  </ul>
+  <li> 2019 - current   PIC Assistant Adjunct Professor, Mathematics, UCLA </li>
+</ul>
 
 Education
 ====
 <ul>
-  <li> 2014 - 2019   Ph.D. Mathematics, Penn State University
-  <li> 2010 - 2014   B.S. Mathematics, Peking University
-  </ul>
+  <li> 2014 - 2019   Ph.D. Mathematics, Penn State University </li>
+  <li> 2010 - 2014   B.S. Mathematics, Peking University </li>
+</ul>
   
 Contact
 ===
-Email                       chu@math.ucla.edu
-Mailing address    UCLA Mathematics Department
-                   Box 951555
-                   Los Angeles, CA 90095-1555
-
+<ul>
+  <li> Email &nbsp &nbsp &nbsp &nbsp chu@math.ucla.edu </li>
+  <li> <p> Mailing address  &nbsp  UCLA Mathematics Department <br>
+                      Box 951555 <br>
+    Los Angeles, CA 90095-1555 </p> </li>
+</ul>
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
