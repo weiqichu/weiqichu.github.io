@@ -15,8 +15,9 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 {% endfor %}
 -->
 
+
 Published by year
-===
+---
 1. <b>Chu, Weiqi</b>, and Mason A. Porter. "A density description of a bounded-confidence model of opinion dynamics on hypergraphs." arXiv preprint arXiv:2203.12189 (2022). [(link)](https://arxiv.org/abs/2203.12189)
 1. <b>Chu, Weiqi</b>, and Xiantao Li. "A projection-based reduced-order method for electron transport problems with long-range interactions." The Journal of Chemical Physics 155.11 (2021): 114105. [(link)](https://aip.scitation.org/doi/abs/10.1063/5.0059355)
 1. <b>Chu, Weiqi</b>, and Xiantao Li. "Nonlinear constitutive models for nano-scale heat conduction." Multiscale Modeling & Simulation 19.1 (2021): 533-549. [(link)](https://epubs.siam.org/doi/abs/10.1137/19M1257664?casa_token=GCQF5sSZI9MAAAAA:JVXInuTENE_1c6GyHkqazm0eXVOvAl5JBpO2ItxGPiuy4Lcgg2YwQjl7SMCEDWzVFv40LmVpeo0)
