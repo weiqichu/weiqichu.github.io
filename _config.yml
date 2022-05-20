@@ -83,8 +83,8 @@ author:
   name             : "Weiqi Chu"
   avatar           : "profile.png"
   bio              : "PIC Adjunct Assistant Professor"
-  location         : "Mathematical Sciences Building 5352" 
-  employer         : "University of California, Los Angeles"
+  location         : "MS Building 5352" 
+  employer         : "UCLA"
   pubmed           : 
   googlescholar    : 
   email            : # "chu@math.ucla.edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiqichu"
+  github           : # "weiqichu"
   google_plus      :
   keybase          :
   instagram        :
