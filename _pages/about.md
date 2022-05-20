@@ -22,20 +22,20 @@ I received my Ph.D. in Mathematics at Penn State University under the supervisio
 Academic Positions
 ====
 <ul>
-  <li> 2019 - current   PIC Assistant Adjunct Professor, Mathematics, UCLA </li>
+  <li> 2019 - current &nbsp; &nbsp; PIC Assistant Adjunct Professor, Mathematics, UCLA </li>
 </ul>
 
 Education
 ====
 <ul>
-  <li> 2014 - 2019   Ph.D. Mathematics, Penn State University </li>
-  <li> 2010 - 2014   B.S. Mathematics, Peking University </li>
+  <li> 2014 - 2019 &nbsp; &nbsp;   Ph.D. Mathematics, Penn State University </li>
+  <li> 2010 - 2014 &nbsp; &nbsp;   B.S. Mathematics, Peking University </li>
 </ul>
   
 Contact
 ===
 <ul>
-  <li> Email &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; chu@math.ucla.edu </li>
+  <li> Email &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; chu@math.ucla.edu </li>
   <li> Mailing address  &nbsp; UCLA Mathematics Department, Box 951555, Los Angeles, CA 90095-1555 </li>
 </ul>
 
