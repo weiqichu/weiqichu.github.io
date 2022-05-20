@@ -6,11 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-p {
-  margin-top: 0em ;
-  margin-bottom: 0em ;
-}
 ---
+
 I am a PIC (Program in Computing) Assistant Adjunct Professor in mathematics at University of California, Los Angeles, working with Prof. [Mason Porter](https://www.math.ucla.edu/~mason/) and Prof. [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). My research interests include network science, model reduction methodology, and multiscale modeling. My recent and ongoing projects include:
 <ul> 
   <li> developing opinion dynamics models on temporal networks, induced by interevent time distributions; </li>
@@ -38,7 +35,7 @@ Education
 Contact
 ===
 <ul>
-  <li> Email &nbsp; &nbsp; &nbsp; &nbsp; chu@math.ucla.edu </li>
+  <li> Email &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; chu@math.ucla.edu </li>
   <li> Mailing address  &nbsp; UCLA Mathematics Department, Box 951555, Los Angeles, CA 90095-1555 </li>
 </ul>
 
