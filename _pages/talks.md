@@ -16,34 +16,34 @@ author_profile: true
 {% endfor %}
  -->
 
-
 Networks Journal Club
 ---
-* Mathematics, UCLA | April 2022
-* Title: 
+* Harvey Mudd College, California, May 2022
+
+SOCAMS (Southern California Applied Mathematics Symposium) 2022
+---
+* Mathematics, UCLA, April 2022 
 
 Advancing Quantum Mechanics with Mathematics and Statistics: Model Reduction in Quantum Mechanics
 ---
-* IPAM, UCLA | April 2022
+* IPAM, UCLA, April 2022 
 
 UNCC CAM Seminar
 ---
-* University of North Carolina, Charlotte | 2021.11
+* University of North Carolina, Charlotte, November 2021
 
 AWM Research Symposium
 ---
-* Rice University, Houston, WA | 2019.4 
-* Title: 
-* Intro: 
+* Rice University, Houston, Texas, April 2019
 
 SIAM Conference on Computational Science and Engineering  
 ---
-* Spokane, WA | 2019.2 
+* Spokane, Washington, February 2019
 
 The 13th World Congress in Computational Mechanics  
 ---
-* New York City, NY | 2018.7 
+* New York City, NY, July 2018 
 
 SIAM Conference on Analysis of Partial Differential Equations  
 ---
-* Baltimore, MD | 2017.12
+* Baltimore, Maryland, Decomber 2017
