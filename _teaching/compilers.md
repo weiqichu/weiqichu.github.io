@@ -1,6 +1,6 @@
 ---
 title: "C++ Compilers Installation"
-collection: teaching
+#collection: teaching
 permalink: /teaching/compilers
 ---
 
@@ -11,16 +11,16 @@ For Windows OS users, install Visual Studio 2022 community.
 * You can download the software [here](https://visualstudio.microsoft.com/vs/). Choose "Download Visual Studio Community 2022". This is the free version.
 * When installing the software, choose the "Desktop development with C++" workload.
 * To run C++ code on VS2022, you must build projects with VS2022 first. Here are step-by-step instructions. The tutorials are made using VS2019, but you can follow the same steps to run C++ with VS 2022.
-        * Create a blank project and run C++ [here](https://www.pic.ucla.edu/getting-started-with-microsoft-visual-studio-2019/)
-        * A video on how to create projects and run C++ code [here](https://drive.google.com/open?id=19SgBvEt8olEaTbo6WnGIYxqb3IbekJiz)
-        * A video on run existing C++ code snippets with Visual Studio 2022 (Spoiler alert: you must create a project first) [here](https://drive.google.com/open?id=1b5zSI4H9nNv3_vJtRCPuPtnRG3qPV-zy)
+    * Create a blank project and run C++ [post](https://www.pic.ucla.edu/getting-started-with-microsoft-visual-studio-2019/)
+    * A video on how to create projects and run C++ code [video](https://drive.google.com/open?id=19SgBvEt8olEaTbo6WnGIYxqb3IbekJiz)
+    * A video on run existing C++ code snippets with Visual Studio 2022 (Spoiler alert: you must create a project first) [video](https://drive.google.com/open?id=1b5zSI4H9nNv3_vJtRCPuPtnRG3qPV-zy)
 
 For Mac OS users, install Xcode (any version).
 ---
-* Some MacBook computers may have installed Xcode already. If not, you can download the most recent Xcode [here] (https://developer.apple.com/xcode/)
-* To run C++ code on Xcode, you must create a project first. Here are demo videos made by Prof. Micheal Andrews on how to run C++ code with Xcode. (Spoiler alert: you must create projects with Xcode first.)
-        * Creating a blank project and run C++ code [here](https://drive.google.com/open?id=1zu-fbDBu1w86CDrXtcA9-J4LrkIX7eBA)
-        * Create a project using code snippets [here](https://drive.google.com/open?id=1nYun2gefcHs0_EqmaZJcfVhztcMTQncw)
+* Some MacBook computers may have installed Xcode already. If not, you can download the most recent Xcode [here](https://developer.apple.com/xcode/)
+* To run C++ code on Xcode, you must create a project first. Here are demo videos made by Prof. [Micheal Andrews](https://www.math.ucla.edu/~mjandr/) on how to run C++ code with Xcode. (Spoiler alert: you must create projects with Xcode first.)
+    * Creating a blank project and run C++ code [video](https://drive.google.com/open?id=1zu-fbDBu1w86CDrXtcA9-J4LrkIX7eBA)
+    * Create a project using code snippets [video](https://drive.google.com/open?id=1nYun2gefcHs0_EqmaZJcfVhztcMTQncw)
 
 Official compiler -- Visual Studio 2022
 ---
