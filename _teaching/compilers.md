@@ -1,7 +1,9 @@
 ---
+layout: archive
+permalink: /teaching/compilers/
 title: "C++ Compilers Installation"
+author_profile: true
 #collection: teaching
-permalink: /teaching/compilers
 ---
 
 Each student should install a C++ compiler on your local computer. Depending on the operating systems, students should download and install different compilers.
