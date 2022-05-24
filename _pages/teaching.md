@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Current Teaching (Spring 2022)"
 permalink: /teaching/
 author_profile: true
 ---
 
-Current Teaching (Spring 2022)
-===
+
 Program in Computing (PIC) 10A Introduction to Programming C++
 * Time MWF 10-10:50am
 * Location Mathematical Sciences 5200
