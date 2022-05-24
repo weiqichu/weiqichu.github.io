@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PIC (Program in Computing) Assistant Adjunct Professor in mathematics at University of California, Los Angeles, working with Prof. [Mason Porter](https://www.math.ucla.edu/~mason/) and Prof. [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). My research interests include network science, model reduction methodology, and multiscale modeling. My recent and ongoing projects include:
 <ul> 
-  <li> developing opinion dynamics models on temporal networks, induced by interevent time distributions; </li>
+  <li> developing opinion dynamics models on temporal networks induced by interevent time distributions; </li>
   <li> using inverse problem techniques to infer parameters in continuous-valued opinion models from discrete decision observations; </li>
   <li> constructing reduced-order models for problems in quantum mechanics and molecular dynamics; </li>
   <li> modeling electro-dewetting phenomena in microfluids using thin film equations coupled with electric field. </li>
