@@ -22,19 +22,14 @@ If you can get a spot on the waitlist, we will mannually enroll you by the end o
 
 Prior Teaching
 ---
-
 * Program in Computing (PIC) 10A Introduction to Programming C++, UCLA
-  * 2022 Winter, Spring
-  * 2021 Spring, Fall
-  * 2020 Spring
-  * 2019 Fall
+  * 2022 Winter, 2022 Spring, 2021 Spring, 2021 Fall, 2020 Spring, 2019 Fall
   
 * Program in Computing (PIC) 10B Intermediate Programming C++, UCLA
-  * 2020 Winter, Spring, Fall
+  * 2020 Winter, 2020 Spring, 2020 Fall
 
 * Program in Computing (PIC) 10C Advance Programming C++, UCLA
-  * 2022 Winter
-  * 2021 Winter
+  * 2022 Winter, 2021 Winter
 
 * Math 22 College Algebra, Penn State University
   * 2015 Fall - 2017 Spring
