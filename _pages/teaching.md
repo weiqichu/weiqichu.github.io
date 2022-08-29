@@ -4,9 +4,12 @@ title: "Current Teaching (Spring 2022)"
 permalink: /teaching/
 author_profile: true
 ---
+Program in Computing (PIC) 10C Advanced Programming C++
+* Time MWF 10-10:50am
+* Location Mathematical Sciences 5117
 
 
-Program in Computing (PIC) 10A Introduction to Programming C++
+<!-- Program in Computing (PIC) 10A Introduction to Programming C++
 * Time MWF 10-10:50am
 * Location Mathematical Sciences 5200
 
@@ -18,7 +21,7 @@ We are expecting to have a fully in-person quarter. Most of class activities, in
 
 We do not offer PTE numbers for PIC course. The only way to enroll is through MyUCLA official waitlist. 
 If you can get a spot on the waitlist, we will mannually enroll you by the end of Week 2.
-
+-->
 
 Prior Teaching
 ---
