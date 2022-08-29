@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Weiqi Chu"
   avatar           : "profile.png"
-  bio              : "PIC Adjunct Assistant Professor, Mathematics"
+  bio              : "PIC Adjunct Assistant Professor, Mathematics chu@math.ucla.edu"
   location         : "University of California, Los Angeles" 
   employer         : "MS Building 5352"
   pubmed           : 
   googlescholar    : 
-  email            : "chu@math.ucla.edu"
+  email            : # "chu@math.ucla.edu"
   researchgate     :  
   uri              :
   bitbucket        :
