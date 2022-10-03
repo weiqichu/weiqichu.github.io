@@ -10,7 +10,7 @@ Program in Computing (PIC) 10C Advanced Programming C++
 * We do not offer PTE numbers for PIC course. The only way to enroll is through MyUCLA official waitlist. If you can get a spot on the waitlist, we will mannually enroll you by the end of Week 2.
 * Some useful information on installing C++ compilers and related Q&A. </u> [PLEASE READ!](../_teaching/compilers.md)
 * A high level description of PIC course content can be found [here](https://ww3.math.ucla.edu/courses/). 
-* 
+
 
 <!-- Program in Computing (PIC) 10A Introduction to Programming C++
 * Time MWF 10-10:50am
