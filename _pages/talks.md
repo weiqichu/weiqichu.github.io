@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+
 <!-- {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
@@ -16,34 +17,46 @@ author_profile: true
 {% endfor %}
  -->
 
-Networks Journal Club
----
-* Harvey Mudd College, California, May 2022
+December 2022
+--
+* Applied Mathematics Seminar, Department of Mathematics, Stata University of New York at Buffalo
+* Departmental Colloquium, Department of Applied Mathematics and Statistics, Corolado School of Mines
 
-SOCAMS (Southern California Applied Mathematics Symposium) 2022
----
-* Mathematics, UCLA, April 2022 
+November 2022
+--
+* Numerical Analysis Seimnar, Department of Mathematics, North Carolina State University
+* Applied/PDE/Data Science Seimnar, Department of Mathematics, UC Santa Barbara
 
-Advancing Quantum Mechanics with Mathematics and Statistics: Model Reduction in Quantum Mechanics
----
-* IPAM, UCLA, April 2022 
+October 2022
+--
+* Networks Journal Club, Department of Mathematics, UCLA
+* PDE and Applied Mathe Seminar, Department of Mathematics, UC Riverside
+* Applied Mathematics Seminar, Department of Computational Mathematics, Science and Engineering, Michigan State University
 
-UNCC CAM Seminar
----
-* University of North Carolina, Charlotte, November 2021
+September 2022
+--
+* SIAM Conference on Mathematics of Data Science, San Diego CA
+* Junior Researcher Meeting: On Forward and Inverse Kinetic Theory and Related Topics, University of Wisconsin Madison
+* Computational and Applied Mathematics Colloquium, Department of Mathematics, Penn State University
+* Data Science Seminar, Department of Mathematics, John Hopkins University
+  
+July 2022
+--
+* Optimal Transport and Mean Field Game Seminar, University of South Carolina
 
-AWM Research Symposium
----
-* Rice University, Houston, Texas, April 2019
+May 2022
+--
+* 2022 Southern California Applied Mathematics Symposium (SOCAMS), Harvey Mudd College, California
 
-SIAM Conference on Computational Science and Engineering  
----
-* Spokane, Washington, February 2019
+April 2022
+--
+* Networks Journal Club, Department of Mathematics, UCLA
+* Advancing Quantum Mechanics with Mathematics and Statistics: Model Reduction in Quantum Mechanics, IPAM, UCLA
 
-The 13th World Congress in Computational Mechanics  
----
-* New York City, NY, July 2018 
-
-SIAM Conference on Analysis of Partial Differential Equations  
----
-* Baltimore, Maryland, Decomber 2017
+2021 and before
+--
+* UNCC CAM Seminar, University of North Carolina, Charlotte, November 2021
+* AWM Research Symposium, Rice University, Houston, Texas, April 2019
+* SIAM Conference on Computational Science and Engineering, Spokane, Washington, February 2019
+* The 13th World Congress in Computational Mechanics, New York City, NY, July 2018 
+* SIAM Conference on Analysis of Partial Differential Equations, Baltimore, Maryland, Decomber 2017
