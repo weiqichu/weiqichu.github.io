@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-My research interests include model reduction, network science, inference from data, and scientific computing. 
+As an applied mathematician, I use mathematical tools to understand a broad range of scientific phenomena that can be addressed both analytically and computationally. My research interests include model reduction, network science, inference from data, and scientific computing. 
 
 Model-reduction methods and multiscale modeling
 -- 
@@ -17,18 +17,14 @@ My works in this theme can be devided into three categories:
 
 Dynamics on networks
 --
-My works stand at the intersection of networks and dynamics. I like to develop and include modeling and analysis of opinion dynamics on hypergraphs [1] and temporal graphs [2] with the aim to bridge agent-based (microscopic) and density-based (macroscopic) descriptions.
+My works stand at the intersection of networks and dynamics. In particular, I am interested in opinion-dynamics models on complex networks and their mathematical properties and essence. I also strive to investigate how to relate and unite dynamics on networks using agent-based (microscopic) and density-based (macroscopic) descriptions. Past and ongoing projects include:
 * A density-based opinion model on hypergraphs
 * Non-Markovian opinion dynamics on temporal graphs
 * Mean-field approximation of density-based opinion models
 
-Inference from data
+Inference from (partially observed) data
 --
-The parameters of many models play an essential role in shaping the behaviors of dynamics. Instead of choosing
-them based on empirical methods, I approach the problem from an “inverse” perspective and seek methods that identify the intrinsic properties of the system from data. My works include
-providing theoretical guarantees to ensure the identifiability of kernel functions and reconstructing the kernels numerically from partial observations in the context of both the mean-field
-description and the agent-based models (ongoing work). 
+The parameters of many models play an essential role in shaping the behaviors of dynamics. I seek methods that identify the intrinsic properties of the system from data or partially observed data. My works include developing theoretical guarantees of the inference method and designing fast and scalable algorithms.
 * Inference of interaction kernels of a mean-field opinion model
-
-
+* Non-parametric inference of dynamics of inter-connected systems
 
