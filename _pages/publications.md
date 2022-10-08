@@ -19,7 +19,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 Published by year
 ---
 1. <b>Chu, Weiqi</b>, Hangjie Ji, Qining Wang and Andrea L. Bertozzi. "An electro-hydrodynamics modeling of droplet actuation on solid surface by surfactant-mediated electro-dewetting." (Preprint)
-2. <b>Chu, Weiqi</b>, Qin Li, and Mason A. Porter. "Inference for parameters of continuous-valued models of opinion dynamics." (Preprint)
+2. <b>Chu, Weiqi</b>, Qin Li, and Mason A. Porter. "Inference of interaction kernels in the mean-field models of opinion dynamics." (Preprint)
 3. <b>Chu, Weiqi</b>, and Mason A. Porter. "Non-Markovian models of opinion dynamics on temporal networks." arXiv:2208.12787 (2022). [(link)](https://arxiv.org/abs/2208.12787)
 4. <b>Chu, Weiqi</b>, and Mason A. Porter. "A density description of a bounded-confidence model of opinion dynamics on hypergraphs." arXiv:2203.12189 (2022). [(link)](https://arxiv.org/abs/2203.12189)
 5. <b>Chu, Weiqi</b>, and Xiantao Li. "A projection-based reduced-order method for electron transport problems with long-range interactions." The Journal of Chemical Physics 155.11 (2021): 114105. [(link)](https://aip.scitation.org/doi/abs/10.1063/5.0059355)
