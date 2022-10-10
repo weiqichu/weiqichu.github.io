@@ -19,8 +19,8 @@ author_profile: true
 
 December 2022
 --
-* Applied Mathematics Seminar, Department of Mathematics, Stata University of New York at Buffalo
-* Departmental Colloquium, Department of Applied Mathematics and Statistics, Corolado School of Mines
+* Applied Mathematics Seminar, Department of Mathematics, State University of New York at Buffalo
+* Departmental Colloquium, Department of Applied Mathematics and Statistics, Colorado School of Mines
 
 November 2022
 --
@@ -30,8 +30,8 @@ November 2022
 October 2022
 --
 * Networks Journal Club, Department of Mathematics, UCLA
-* PDE and Applied Mathe Seminar, Department of Mathematics, UC Riverside
-* Applied Mathematics Seminar, Department of Computational Mathematics, Science and Engineering, Michigan State University
+* PDE and Applied Math Seminar, Department of Mathematics, UC Riverside
+* Applied Math Seminar, Department of Computational Mathematics, Science and Engineering, Michigan State University
 
 September 2022
 --
