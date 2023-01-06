@@ -19,7 +19,7 @@ author_profile: true
 
 January 2023
 --
-* Dynamics Days US 2023 – An International Conference on Chaos and Nonlinear Dynamics, hosted by the Mathematics Department at Trinity College
+* Dynamics Days US 2023 – An International Conference on Chaos and Nonlinear Dynamics, Trinity College, Connecticut
 
 December 2022
 --
