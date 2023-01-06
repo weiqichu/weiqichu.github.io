@@ -17,6 +17,10 @@ author_profile: true
 {% endfor %}
  -->
 
+January 2023
+--
+* Dynamics Days US 2023 – An International Conference on Chaos and Nonlinear Dynamics, hosted by the Mathematics Department at Trinity College
+
 December 2022
 --
 * Applied Mathematics Seminar, Department of Mathematics, State University of New York at Buffalo
