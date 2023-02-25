@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-* <b> [Enrollment Notice for Spring 2023] </b> We do not offer PTE numbers for PIC courses. The only way to enroll is through MyUCLA official waitlist. We will mannually enroll all waitlist students by the end of Week 2. 
+* <b> [Enrollment Notice for Spring 2023] </b> We do not offer PTE numbers for PIC courses. The only way to enroll is through MyUCLA official waitlist. We will manually enroll all waitlist students by the end of Week 2. 
 
 * Some useful information on installing C++ compilers and related Q&A. [PLEASE READ!](../_teaching/compilers.md)
 
