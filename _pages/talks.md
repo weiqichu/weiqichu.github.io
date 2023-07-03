@@ -17,6 +17,10 @@ author_profile: true
 {% endfor %}
  -->
 
+April 2023
+--
+* 2023 Southern California Applied Mathematics Symposium (SOCAMS), UC Irvine
+
 January 2023
 --
 * Dynamics Days US 2023 – An International Conference on Chaos and Nonlinear Dynamics, Trinity College, Connecticut
