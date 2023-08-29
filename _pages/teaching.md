@@ -15,6 +15,8 @@ author_profile: true
 Current Teaching (Fall 2023)
 ---
 * Course: MATH  551 Introduction to Scientific Computing
+
+  
 <!--
 * All course-related materials are posted on [BruinLearn](http://bruinlearn.ucla.edu), including the syllabus, lecture slides, office hours information, etc. You need to log in to view the materials.
 * A high level description of PIC course content can be found [here](https://ww3.math.ucla.edu/courses/). 
