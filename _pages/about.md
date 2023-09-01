@@ -11,15 +11,17 @@ I am an Assistant Professor in the Department of Mathematics and Statistics at t
 <ul> 
   <li> developing opinion dynamics models on temporal networks induced by interevent time distributions; </li>
   <li> using inverse problem techniques to infer parameters in continuous-valued opinion models from discrete decision observations; </li>
-  <li> constructing reduced-order models for problems in quantum mechanics and molecular dynamics; </li>
+  <li> constructing reduced-order models for problems in quantum mechanics and molecular dynamics. </li>
 </ul>
   
 I was a PIC Assistant Adjunct Professor at UCLA, mentored by Prof. [Mason Porter](http://math.ucla.edu/~mason) and Prof. [Andrea Bertozzi](http://math.ucla.edu/~bertozzi). I received my Ph.D. in Mathematics at Penn State University under the supervision of Prof. [Xiantao Li](http://www.personal.psu.edu/xxl12/). Prior to that, I was an undergraduate student at Peking University, China. 
 
+I am currently co-organizing the [Applied Mathematics and Computation Seminar](https://www.umass.edu/mathematics-statistics/seminars/applied-analysis-and-computation-seminar) together with [Brian Van Koten](https://people.math.umass.edu/~vankoten/) and [Andreas Buttenschön](https://www.buttenschoen.ca).
+
 External Grants
 ====
 <ul>
-  <li> PI. NSF DMS-2309814 Model Reduction Methods for Extended Quantum Systems: Analysis and Applications </li>
+  <li> NSF DMS-2309814, <em>Model Reduction Methods for Extended Quantum Systems: Analysis and Applications</em>, 2023 - 2026, solo PI </li>
 </ul>
 
 Academic Positions
