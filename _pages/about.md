@@ -16,7 +16,7 @@ I am an Assistant Professor in the Department of Mathematics and Statistics at t
   
 I was a PIC Assistant Adjunct Professor at UCLA, mentored by Prof. [Mason Porter](http://math.ucla.edu/~mason) and Prof. [Andrea Bertozzi](http://math.ucla.edu/~bertozzi). I received my Ph.D. in Mathematics at Penn State University under the supervision of Prof. [Xiantao Li](http://www.personal.psu.edu/xxl12/). Prior to that, I was an undergraduate student at Peking University, China. 
 
-I am currently co-organizing the [Applied Mathematics and Computation Seminar](https://www.umass.edu/mathematics-statistics/seminars/applied-analysis-and-computation-seminar) together with [Brian Van Koten](https://people.math.umass.edu/~vankoten/) and [Andreas Buttenschön](https://www.buttenschoen.ca).
+I am co-organizing [the Applied Mathematics and Computation Seminar](https://www.umass.edu/mathematics-statistics/seminars/applied-analysis-and-computation-seminar) and [the Mathematics of Machine Learning Seminar](https://www.umass.edu/mathematics-statistics/seminars/reading-seminar-on-mathematics-of-machine-learning). Feel free to reach out if you'd like to give a talk.
 
 External Grants
 ====
