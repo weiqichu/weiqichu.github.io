@@ -4,4 +4,6 @@ title: "Posts by Collection"
 permalink: /teaching/homework_instructions/
 author_profile: true
 ---
-<iframe src="/math551hw_instructions.pdf" width="100%" height="800px"> </iframe>
+<body>
+  <iframe src="/math551hw_instructions.pdf" width="100%" height="800px"> </iframe>
+</body>
