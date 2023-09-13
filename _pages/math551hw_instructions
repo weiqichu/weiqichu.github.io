@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: "Posts by Collection"
-permalink: /teaching/homework_instructions/
+layout: page
+title: "Math 551 Homework Submission Instructions"
+permalink: /teaching/homework_instructions
 author_profile: true
 ---
 {% include base_path %}
