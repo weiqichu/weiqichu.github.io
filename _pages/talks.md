@@ -40,8 +40,8 @@ December 2022
 
 November 2022
 --
-* Numerical Analysis Seimnar, Department of Mathematics, North Carolina State University
-* Applied/PDE/Data Science Seimnar, Department of Mathematics, UC Santa Barbara
+* Numerical Analysis Seminar, Department of Mathematics, North Carolina State University
+* Applied/PDE/Data Science Seminar, Department of Mathematics, UC Santa Barbara
 
 October 2022
 --
