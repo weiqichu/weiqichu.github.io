@@ -19,7 +19,7 @@ author_profile: true
 
 January 2024
 --
-* Joint Mathematics Meetings 2024, San Fransisco CA
+* Joint Mathematics Meetings 2024, San Francisco CA
 
 October 2023
 --
