@@ -17,14 +17,22 @@ author_profile: true
 {% endfor %}
  -->
 
+January 2024
+--
+* Joint Mathematics Meetings 2024, San Fransisco CA
+
+October 2023
+--
+* SIAM The 1st Annual Meeting of the New York-New Jersey-Pennsylvania Section, New Jersey Institute of Technology in Newark, NJ
+
 April 2023
 --
 * 2023 Southern California Applied Mathematics Symposium (SOCAMS), UC Irvine
 
 January 2023
 --
-* Dynamics Days US 2023 – An International Conference on Chaos and Nonlinear Dynamics, Trinity College, Connecticut
-
+* Dynamics Days US 2023 – An International Conference on Chaos and Nonlinear Dynamics, Online
+  
 December 2022
 --
 * Applied Mathematics Seminar, Department of Mathematics, State University of New York at Buffalo
