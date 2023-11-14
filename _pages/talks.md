@@ -58,6 +58,7 @@ September 2022
   
 July 2022
 --
+* 2022 SIAM Annual Meeting, Pittsburg PA
 * Optimal Transport and Mean Field Game Seminar, University of South Carolina
 
 May 2022
