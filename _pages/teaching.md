@@ -12,9 +12,9 @@ author_profile: true
 -->
 
 
-Current Teaching (Fall 2023)
+Current Teaching (Spring 2024)
 ---
-* Course: MATH  551 Introduction to Scientific Computing
+* Course: MATH 552 Applications of Scientific Computing
 
   
 <!--
@@ -34,6 +34,9 @@ We are going to have a fully in-person quarter. Most of class activities, includ
 
 Prior Teaching
 ---
+* MATH 551 Introduction to Scientific Computing, University of Massachusetts Amherst
+  * 2023 Fall
+ 
 * Program in Computing (PIC) 10A Introduction to Programming C++, UCLA
   * 2023 Summer, 2023 Spring, 2023 Winter, 2022 Winter, 2022 Spring, 2021 Spring, 2021 Fall, 2020 Spring, 2019 Fall
   
