@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /teaching/instructions/homework
+permalink: /teaching/instructions
 title: "Homework Submission Instructions"
 author_profile: true
 #collection: teaching
