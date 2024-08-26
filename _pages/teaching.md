@@ -15,7 +15,8 @@ author_profile: true
 Current Teaching (Fall 2024)
 ---
 * Course: MATH 551 Introduction to Scientific Computing
-
+  * We use Gradescope to collect and grade homework.
+  * Please read instructions <a href="https://weiqichu.github.io/files/instructions_hw.pdf">[HERE]</a> before submitting your homework.
   
 <!--
 * All course-related materials are posted on [BruinLearn](http://bruinlearn.ucla.edu), including the syllabus, lecture slides, office hours information, etc. You need to log in to view the materials.
