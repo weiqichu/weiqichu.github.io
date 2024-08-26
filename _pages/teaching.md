@@ -12,9 +12,9 @@ author_profile: true
 -->
 
 
-Current Teaching (Spring 2024)
+Current Teaching (Fall 2024)
 ---
-* Course: MATH 552 Applications of Scientific Computing
+* Course: MATH 551 Introduction to Scientific Computing
 
   
 <!--
@@ -34,6 +34,8 @@ We are going to have a fully in-person quarter. Most of class activities, includ
 
 Prior Teaching
 ---
+* MATH 552 Applications of Scientific Computing, University of Massachusetts Amherst
+  * 2024 Spring
 * MATH 551 Introduction to Scientific Computing, University of Massachusetts Amherst
   * 2023 Fall
  
