@@ -18,7 +18,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 Published by year
 ---
-1. <b>Chu, Weiqi</b>, and Mason A. Porter. "Bounded-confidence opinion models with random-time interactions." arXiv: (2024). [[Arxiv]](https://arxiv.org/abs/)
+1. <b>Chu, Weiqi</b>, and Mason A. Porter. "Bounded-confidence opinion models with random-time interactions." arXiv:2409.15148 (2024). [[Arxiv]](https://arxiv.org/abs/2409.15148)
 2. Su Yang, <b>Chu, Weiqi</b>, and Panayotis G. Kevrekidis. "An epidemical model with nonlocal spatial infections." arXiv:2407.07538 (2024). [[Arxiv]](https://arxiv.org/abs/2407.07538)
 3. Ning Jiang, <b>Chu, Weiqi</b>, and Yao Li. "Modeling, inference, and prediction in compartmental models for epidemiology." arXiv:2406.12002 (2024). [[Arxiv]](https://arxiv.org/abs/2406.12002)
 4. <b>Chu, Weiqi</b>, Qin Li, and Mason A. Porter. "Inference of interaction kernels in mean-field models of opinion dynamics." <i>SIAM Journal on Applied Mathematics</i> 84.3 (2024). [[Arxiv]](https://arxiv.org/abs/2212.14489) [[Journal]](https://epubs.siam.org/doi/full/10.1137/22M1544415)
