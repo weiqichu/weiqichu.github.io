@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-As an applied mathematician, I use mathematical tools to understand a broad range of scientific phenomena that can be addressed both analytically and computationally. My research interests include model reduction, network science, inference from data, and scientific computing. 
+I use mathematical and computational tools to understand a broad range of scientific phenomena that arise in physical, biological, and social systems. My research interests include model reduction, network science, inference from data, and scientific computing. 
 
 Model-reduction methods and multiscale modeling
 -- 
 One of my longstanding interests is to develop scalable and systematic approaches to reduce the dimensionality of complex models. 
-My works in this theme can be devided into three categories: 
+My works on this theme can be divided into three categories: 
 * Mori–Zwanzig theory
 * Petro–Galerkin projection
 * Lubrication theory
