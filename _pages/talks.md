@@ -19,16 +19,19 @@ author_profile: true
 
 Upcoming
 --
+* December 2024
+  * The AIMS Conference Series on Dynamical Systems and Differential Equations, NYU at Abu Dhabi
+
+* May 2025
+  * SIAM Conference on Applications of Dynamical Systems, Denver, CO
+  
+Past
+--
 * October 2024
   * The Applied and Computational Mathematics seminar, Department of Mathematics, Dartmouth College
   * AMS 2024 Fall Eastern Sectional Meeting, University at Albany, Albany, NY
   * SIAM Conference on Mathematics of Data Science, Atlanta, Georgia
 
-* December 2024
-  * The AMIS Conference Series on Dynamical Systems and Differential Equations, NYU at Abu Dhabi
-
-Past
---
 * May 2024
   * Workshop "Interacting Particle Systems: Analysis, Control, Learning and Computation", ICERM, Brown University
   * Workshop "Data Sciences for Mesoscale and Macroscale Materials Models", IMSI, University of Chicago
