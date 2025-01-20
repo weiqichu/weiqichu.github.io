@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /teaching/instructions
-title: "Homework Instructions for Math 551"
+title: "Gradescope Homework Instructions"
 author_profile: true
 #collection: teaching
 ---
