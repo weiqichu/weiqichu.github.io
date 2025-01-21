@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /teaching/instructions
+permalink: /teaching/instructions/
 title: "Gradescope Homework Instructions"
 author_profile: true
 #collection: teaching
