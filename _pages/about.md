@@ -18,6 +18,8 @@ I was a PIC Assistant Adjunct Professor at UCLA, mentored by Prof. [Mason Porter
 
 I am co-organizing [the Applied Mathematics and Computation Seminar](https://www.umass.edu/mathematics-statistics/seminars/applied-analysis-and-computation-seminar) and [the Mathematics of Machine Learning Seminar](https://www.umass.edu/mathematics-statistics/seminars/reading-seminar-on-mathematics-of-machine-learning). Feel free to reach out if you'd like to give a talk.
 
+[Opening] I am looking for Ph.D., Master’s, and undergraduate students to work on scientific computing, network sciences, and data sciences. Students are welcome to contact me with CV (and/or transcripts, sample publications) attached if you are interested. 
+
 External Grants
 ====
 <ul>
