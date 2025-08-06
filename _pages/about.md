@@ -7,18 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the Department of Mathematics and Statistics at the University of Massachusetts Amherst. My research interests include network science, model reduction methodology, and multiscale modeling. My recent and ongoing projects include:
-<ul> 
-  <li> developing opinion dynamics models on temporal networks induced by interevent time distributions; </li>
-  <li> using inverse problem techniques to infer parameters in continuous-valued opinion models from discrete decision observations; </li>
-  <li> constructing reduced-order models for problems in quantum mechanics and molecular dynamics. </li>
-</ul>
+I am an Assistant Professor in the Department of Mathematics and Statistics at the University of Massachusetts Amherst. My research interests include scientific computing, network science, and data science. You can find more about my past and ongoing projects [here](https://weiqichu.github.io/research/). 
   
 I was a PIC Assistant Adjunct Professor at UCLA, mentored by Prof. [Mason Porter](http://math.ucla.edu/~mason) and Prof. [Andrea Bertozzi](http://math.ucla.edu/~bertozzi). I received my Ph.D. in Mathematics at Penn State University under the supervision of Prof. [Xiantao Li](http://www.personal.psu.edu/xxl12/). Prior to that, I was an undergraduate student at Peking University, China. 
 
 I am co-organizing [the Applied Mathematics and Computation Seminar](https://www.umass.edu/mathematics-statistics/seminars/applied-analysis-and-computation-seminar) and [the Mathematics of Machine Learning Seminar](https://www.umass.edu/mathematics-statistics/seminars/reading-seminar-on-mathematics-of-machine-learning). Feel free to reach out if you'd like to give a talk.
 
-[Opening] I am looking for Ph.D., Master’s, and undergraduate students to work on scientific computing, network sciences, and data sciences. Students are welcome to contact me with CV (and/or transcripts, sample publications) attached if you are interested. 
+[Opening] I am looking for Ph.D., Master’s, and undergraduate students to work on scientific computing, network science, and data science. Students are welcome to contact me with a CV (and/or transcripts, sample publications) attached if you are interested. 
 
 External Grants
 ====
