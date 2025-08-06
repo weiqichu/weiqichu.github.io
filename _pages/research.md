@@ -9,11 +9,13 @@ I use mathematical and computational tools to understand a broad range of scient
 
 Model-reduction methods and multiscale modeling
 -- 
-One of my longstanding interests is to develop scalable and systematic approaches to reduce the dimensionality of complex models. 
-My works on this theme can be divided into three categories: 
-* Mori–Zwanzig theory
-* Petro–Galerkin projection
-* Lubrication theory
+One of my longstanding interests is to develop scalable and systematic approaches to reduce the dimensionality of complex models. I use multiscale and projection methods such as Mori–Zwanzig formalism, operator splitting, Petro–Galerkin projection, homogenization, and lubrication theory to reduce the dimension of problems that arise in various fields. Some applications include
+* Heat and energy transfer in molecular dynamics and nano-scale materials [<a onclick='help_click(help271, "<span><a href=\"https://link.springer.com/article/10.1007/s10955-017-1927-3\" target= \"_blank\">On the asymptotic behavior of the kernel function in the generalized Langevin equation: a one-dimensional lattice model</a>
+<br>(W. Chu, X. Li; JSP 2018)<br>
+<br><a href=\"https://intlpress.com/journals/journalList?id=1804413732712935425\" target= \"_blank\">The Mori–Zwanzig formalism for the derivation of a fluctuating heat conduction model from molecular dynamics</a>
+<br>(W. Chu, X. Li; CMS 2019)</span>")' href="javascript:;">Publications</a>]
+* Quantum and electron transport in quantum mechanics 
+* Micro-fuilds
 
 Dynamics on networks
 --
