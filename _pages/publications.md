@@ -18,9 +18,10 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 Preprints
 ---
-1. Grace J. Li, Jiajie Luo, and <b>Weiqi Chu</b>, “Bounded-confidence models of multi-dimensional opinions with topic-weighted discordance,” arXiv preprint arXiv:2502.00284 (2025) [[Arxiv]](https://arxiv.org/abs/2502.00284)
-2. <b>Weiqi Chu</b>, and Mason A. Porter. "Bounded-confidence opinion models with random-time interactions." arXiv:2409.15148 (2024). [[Arxiv]](https://arxiv.org/abs/2409.15148)
-3. Ning Jiang, <b>Weiqi Chu</b>, and Yao Li. "Modeling, inference, and prediction in compartmental models for epidemiology." arXiv:2406.12002 (2024). [[Arxiv]](https://arxiv.org/abs/2406.12002)
+1. <b>Weiqi Chu</b>, and Matthew Dobson. "What do bouncing balls tell us about the universe? A journey into billiard systems." arXiv:2508.18519 (2025) [[Arxiv]](https://arxiv.org/abs/2508.18519)
+2. Grace J. Li, Jiajie Luo, and <b>Weiqi Chu</b>, “Bounded-confidence models of multi-dimensional opinions with topic-weighted discordance.” arXiv:2502.00284 (2025) [[Arxiv]](https://arxiv.org/abs/2502.00284) (accepted to SIAM Journal on Applied Dynamical Systems)
+3. <b>Weiqi Chu</b>, and Mason A. Porter. "Bounded-confidence opinion models with random-time interactions." arXiv:2409.15148 (2024). [[Arxiv]](https://arxiv.org/abs/2409.15148) 
+4. Ning Jiang, <b>Weiqi Chu</b>, and Yao Li. "Modeling, inference, and prediction in compartmental models for epidemiology." arXiv:2406.12002 (2024). [[Arxiv]](https://arxiv.org/abs/2406.12002) (accepted to SIAM Journal on Applied Mathematics)
 
 
 Publications
