@@ -18,7 +18,7 @@ Current Teaching (Fall 2025)
   * All course materials (such as lecture notes, demo code, etc.) are posted on Canvas.
   * We use Gradescope to collect and grade homework.
   * Please read instructions <a href="https://weiqichu.github.io/files/instructions_hw.pdf">[HERE]</a> before submitting your homework.
-  * For a sample lecture, see notes <a href="https://weiqichu.github.io/files/sample_lectures.pdf">[HERE]</a>.
+  * See a sample lecture on Newton's method <a href="https://weiqichu.github.io/files/sample_lectures.pdf">[HERE]</a>.
   
 <!--
 * All course-related materials are posted on [BruinLearn](http://bruinlearn.ucla.edu), including the syllabus, lecture slides, office hours information, etc. You need to log in to view the materials.
