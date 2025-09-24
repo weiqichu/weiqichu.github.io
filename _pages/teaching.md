@@ -12,12 +12,13 @@ author_profile: true
 -->
 
 
-Current Teaching (Spring 2025)
+Current Teaching (Fall 2025)
 ---
-* Course: MATH 552 Applications of Scientific Computing
+* Course: MATH 551 Introduction to Scientific Computing
   * All course materials (such as lecture notes, demo code, etc.) are posted on Canvas.
   * We use Gradescope to collect and grade homework.
   * Please read instructions <a href="https://weiqichu.github.io/files/instructions_hw.pdf">[HERE]</a> before submitting your homework.
+  * For a sample lecture, see notes <a href="https://weiqichu.github.io/files/sample_lectures.pdf">[HERE]</a>.
   
 <!--
 * All course-related materials are posted on [BruinLearn](http://bruinlearn.ucla.edu), including the syllabus, lecture slides, office hours information, etc. You need to log in to view the materials.
@@ -37,7 +38,7 @@ We are going to have a fully in-person quarter. Most of class activities, includ
 Prior Teaching
 ---
 * MATH 552 Applications of Scientific Computing, University of Massachusetts Amherst
-  * 2024 Spring
+  * 2024 Spring, 2025 Spring
 * MATH 551 Introduction to Scientific Computing, University of Massachusetts Amherst
   * 2023 Fall, 2024 Fall
  
