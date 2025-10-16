@@ -26,7 +26,7 @@ Preprints
 Publications
 ---
 1. Ning Jiang, <b>Weiqi Chu</b>, and Yao Li. "Modeling, inference, and prediction in compartmental models for epidemiology." <i>SIAM Journal on Applied Mathematics</i> 85.5 (2025). [[Arxiv]](https://arxiv.org/abs/2406.12002) [[Journal]](https://epubs.siam.org/doi/10.1137/24M1691557)
-2. Su Yang, <b>Weiqi Chu</b>, and Panayotis G. Kevrekidis, “An epidemical model with nonlocal spatial infections,” Proceedings of the European Academy of Sciences and Arts, vol.3 (2024). [[Arxiv]](https://arxiv.org/abs/2407.07538) [[Journal]](https://www.peasa.eu/site/article/view/42)
+2. Su Yang, <b>Weiqi Chu</b>, and Panayotis G. Kevrekidis, “An epidemical model with nonlocal spatial infections,” <i>Proceedings of the European Academy of Sciences and Arts</i>, vol.3 (2024). [[Arxiv]](https://arxiv.org/abs/2407.07538) [[Journal]](https://www.peasa.eu/site/article/view/42)
 3. <b>Weiqi Chu</b>, Qin Li, and Mason A. Porter. "Inference of interaction kernels in mean-field models of opinion dynamics." <i>SIAM Journal on Applied Mathematics</i> 84.3 (2024). [[Arxiv]](https://arxiv.org/abs/2212.14489) [[Journal]](https://epubs.siam.org/doi/full/10.1137/22M1544415)
 4. <b>Weiqi Chu</b>, and Mason A. Porter. "A density description of a bounded-confidence model of opinion dynamics on hypergraphs." <i>SIAM Journal on Applied Mathematics</i> 83.6 (2023): 2310-2328. [[Arxiv]](https://arxiv.org/abs/2203.12189) [[Journal]](https://epubs.siam.org/doi/10.1137/22M148608X)
 5. <b>Weiqi Chu</b>, and Mason A. Porter. "Non-Markovian models of opinion dynamics on temporal networks." <i>SIAM Journal on Applied Dynamical Systems</i> 22.3 (2023): 2624-2647. [[Arxiv]](https://arxiv.org/abs/2208.12787)[[Journal]](https://epubs.siam.org/doi/full/10.1137/22M151858X)
