@@ -18,7 +18,7 @@ I am co-organizing [the Applied Mathematics and Computation Seminar](https://www
 External Grants
 ====
 <ul>
-  <li> NSF DMS-2309814, <em>Model Reduction Methods for Extended Quantum Systems: Analysis and Applications</em>, 2023 - 2026, solo PI </li>
+  <li> NSF DMS-2350325, <em>Model Reduction Methods for Extended Quantum Systems: Analysis and Applications</em>, 2023 - 2026, solo PI </li>
   <li> NSF DMS-2514053, <em>Data-driven Modeling and Inference for High-order Models on Networks</em>, 2025 - 2028, solo PI </li>
 </ul>
 
