@@ -16,7 +16,7 @@ My work stands at the intersection of networks and dynamics. In particular, I am
 
 Inference from (partially observed) data
 --
-The parameters of many models play an essential role in shaping the dynamics. I seek methods that identify the intrinsic properties of the system from data or partially observed data. My work includes developing theoretical guarantees of the inference method and designing fast and scalable algorithms.
+The parameters of many models play an essential role in shaping the dynamics. I seek methods that identify the intrinsic properties of the system from data or partially observed data. My work includes developing theoretical guarantees of the inference method and designing fast and scalable algorithms. Past and ongoing projects include:
 * Inference of interaction kernels of a mean-field opinion model
 * Non-parametric inference of dynamics of interconnected systems
 
